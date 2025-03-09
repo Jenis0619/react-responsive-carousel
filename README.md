@@ -39,16 +39,6 @@ I don't have any time available to keep maintaining this package. If you have an
 -   [Before contributing](https://github.com/leandrowd/react-responsive-carousel/blob/master/CONTRIBUTING.md)
 -   [Troubleshooting](https://github.com/leandrowd/react-responsive-carousel/blob/master/TROUBLESHOOTING.md)
 
-### Demo
-
-<http://leandrowd.github.io/react-responsive-carousel/>
-
-Check it out these [cool demos](http://react-responsive-carousel.js.org/storybook/index.html) created using [storybook](https://storybook.js.org/). The source code for each example is available [here](https://github.com/leandrowd/react-responsive-carousel/blob/master/stories/)
-
-Customize it yourself:
-
--   Codesandbox: <https://codesandbox.io/s/lp602ljjj7>
-
 ### Installing as a package
 
 `yarn add react-responsive-carousel`
